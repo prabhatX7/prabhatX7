@@ -1,5 +1,22 @@
-# 💫 About Me:
-👋 Hello there! I'm Prabhat Karki , a passionate student diving into the world of programming and currently focusing on mastering JavaScript.<br><br>🚀 I'm on an exciting journey of learning and exploring the ins and outs of JavaScript, from the basics to more advanced concepts like asynchronous programming and modern frameworks like React and Node.js.<br><br>💼 As a student, I'm dedicated to expanding my knowledge and skill set in the field of web development. I'm currently honing my skills through various online courses, tutorials, and personal projects.<br><br>🌱 In my free time, you'll often find me immersed in coding challenges on platforms like LeetCode or contributing to open-source projects to gain practical experience and give back to the community.<br><br>📫 Have any tips or resources to share? Or perhaps you're looking for a study buddy to tackle JavaScript projects together? Feel free to reach out to me via email at prabhatkarki.007@gmail.com.<br><br>⚡ Fun fact: When I'm not coding, I enjoy with watching reels, movies and playing video games.
+
+# 💫 About Me
+
+👋 Hey there! I'm **Prabhat Karki**, an aspiring **Full Stack Developer** passionate about building modern, scalable, and user-friendly web applications.
+
+🚀 Currently focused on mastering the **MERN Stack (MongoDB, Express.js, React.js, and Node.js)**, while strengthening my foundation in JavaScript, TypeScript, and software engineering principles.
+
+💻 I enjoy turning ideas into functional applications, exploring backend architecture, designing RESTful APIs, implementing authentication and authorization, and building interactive user interfaces.
+
+🌱 Constantly learning and experimenting with technologies like **React, Redux Toolkit, TypeScript, Node.js, Express.js, MongoDB, MySQL, and Socket.IO**. I'm also exploring real-time communication, application security, and performance optimization.
+
+🛠️ I believe in learning by building. From full-stack projects to experimenting with new technologies, I'm always looking for opportunities to improve my problem-solving skills and write better, cleaner code.
+
+🎯 **My Goal:** To become a skilled Software Engineer who builds impactful products, solves real-world problems, and never stops learning.
+
+🤝 Open to collaborating on interesting projects, connecting with fellow developers, and exploring opportunities to grow as a developer.
+
+⚡ **Fun Fact:** When I'm not debugging code, you'll probably find me watching movies, scrolling reels, or gaming! 🎮
+
 
 
 # 🌐 Socials:
