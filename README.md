@@ -1,3 +1,6 @@
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/46610b83-f3c8-4d22-a0e8-f1cbdeb707e7" />
+
+
 
 # 💫 About Me
 
@@ -16,9 +19,19 @@
 
 
 # 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/prabhat.karki.07)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aliverx7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-karki-4587b4311)
+
+<p align="left">
+  <a href="(https://www.facebook.com/prabhat.karki.07)">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/aliverx7">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prabhat-karki-4587b4311">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 
 # 💻 Tech Stack:
