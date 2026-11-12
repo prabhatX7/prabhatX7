@@ -7,11 +7,7 @@
 
 💼 As a student, I'm dedicated to expanding my knowledge and skill set in the field of web development. I'm currently honing my skills through various online courses, tutorials, and personal projects.
 
-🚀 I enjoy building projects, solving problems, learning new technologies, and turning ideas into reality.
-
-🌱 Always learning, always building, and constantly improving.
-
-🎯 **Goal:** Become a skilled Software Engineer and build impactful products.
+🚀 I enjoy building projects, solving problems, learning new technologies, and turning ideas into reality. Always learning, always building, and constantly improving.
 
 📫 Have any tips or resources to share? Or perhaps you're looking for a study buddy to tackle JavaScript projects together? Feel free to reach out to me via email at: **prabhatkarki.007@gmail.com**
 
